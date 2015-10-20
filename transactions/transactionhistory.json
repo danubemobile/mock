@@ -1,0 +1,64 @@
+{
+  "TransactionHistory": [
+    {
+      "Transaction": {
+        "accountBalance": 1546215.12,
+        "paymentType": "Tax",
+        "transactionUser": "Abc",
+        "transactionPlace": "Xyz",
+        "transactionCurrency": "CZE",
+        "transactionDate": "16/10/2015"
+      }
+    },
+    {
+      "Transaction": {
+        "accountBalance": 1546215.12,
+        "paymentType": "Tax",
+        "transactionUser": "Abc",
+        "transactionPlace": "Xyz",
+        "transactionCurrency": "CZE",
+        "transactionDate": "16/10/2015"
+      }
+    },
+    {
+      "Transaction": {
+        "accountBalance": 1546215.12,
+        "paymentType": "Tax",
+        "transactionUser": "Abc",
+        "transactionPlace": "Xyz",
+        "transactionCurrency": "CZE",
+        "transactionDate": "16/10/2015"
+      }
+    },
+    {
+      "Transaction": {
+        "accountBalance": 1546215.12,
+        "paymentType": "Tax",
+        "transactionUser": "Abc",
+        "transactionPlace": "Xyz",
+        "transactionCurrency": "CZE",
+        "transactionDate": "16/10/2015"
+      }
+    },
+    {
+      "Transaction": {
+        "accountBalance": 1546215.12,
+        "paymentType": "Tax",
+        "transactionUser": "Abc",
+        "transactionPlace": "Xyz",
+        "transactionCurrency": "CZE",
+        "transactionDate": "16/10/2015"
+      }
+    },
+    {
+      "Transaction": {
+        "accountBalance": 1546215.12,
+        "paymentType": "Tax",
+        "transactionUser": "Abc",
+        "transactionPlace": "Xyz",
+        "transactionCurrency": "CZE",
+        "transactionDate": "16/10/2015"
+      }
+    }
+  ]
+}
