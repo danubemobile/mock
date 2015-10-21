@@ -2,7 +2,7 @@
   "TransactionHistory": [
     {
       "Transaction": {
-        "accountBalance": 4 456,32,
+        "accountBalance": 4456.32,
         "paymentType": "Salary",
         "transactionUser": "Abc",
         "transactionPlace": "Address 1",
@@ -12,7 +12,7 @@
     },
     {
       "Transaction": {
-        "accountBalance": 5 234,56,
+        "accountBalance": 5234.56,
         "paymentType": "Fee",
         "transactionUser": "Abc",
         "transactionPlace": "Address 2",
@@ -22,7 +22,7 @@
     },
     {
       "Transaction": {
-        "accountBalance": 2 456,65,
+        "accountBalance": 2456.65,
         "paymentType": "Interest",
         "transactionUser": "Abc",
         "transactionPlace": "Address 3",
@@ -32,7 +32,7 @@
     },
     {
       "Transaction": {
-        "accountBalance": 5 643,76,
+        "accountBalance": 5643.76,
         "paymentType": "Income",
         "transactionUser": "Abc",
         "transactionPlace": "Address 4",
@@ -42,7 +42,7 @@
     },
     {
       "Transaction": {
-        "accountBalance": 9 234,45,
+        "accountBalance": 9234.45,
         "paymentType": "PFM Category 1",
         "transactionUser": "Abc",
         "transactionPlace": "Address 5",
@@ -52,7 +52,7 @@
     },
     {
       "Transaction": {
-        "accountBalance": 3 826,90,
+        "accountBalance": 3826.90,
         "paymentType": "Tax",
         "transactionUser": "Abc",
         "transactionPlace": "Address 6",
