@@ -7,7 +7,7 @@
         "transactionUser": "Abc",
         "transactionPlace": "Xyz",
         "transactionCurrency": "CZE",
-        "transactionDate": "16/10/2015"
+        "transactionDate": 1345345335345
       }
     },
     {
@@ -17,7 +17,7 @@
         "transactionUser": "Abc",
         "transactionPlace": "Xyz",
         "transactionCurrency": "CZE",
-        "transactionDate": "16/10/2015"
+        "transactionDate": 1345345335345
       }
     },
     {
@@ -27,7 +27,7 @@
         "transactionUser": "Abc",
         "transactionPlace": "Xyz",
         "transactionCurrency": "CZE",
-        "transactionDate": "16/10/2015"
+        "transactionDate": 1345345335345
       }
     },
     {
@@ -37,7 +37,7 @@
         "transactionUser": "Abc",
         "transactionPlace": "Xyz",
         "transactionCurrency": "CZE",
-        "transactionDate": "16/10/2015"
+        "transactionDate": 1345345335345
       }
     },
     {
@@ -47,7 +47,7 @@
         "transactionUser": "Abc",
         "transactionPlace": "Xyz",
         "transactionCurrency": "CZE",
-        "transactionDate": "16/10/2015"
+        "transactionDate": 1345345335345
       }
     },
     {
@@ -57,7 +57,7 @@
         "transactionUser": "Abc",
         "transactionPlace": "Xyz",
         "transactionCurrency": "CZE",
-        "transactionDate": "16/10/2015"
+        "transactionDate": 1345345335345
       }
     }
   ]
