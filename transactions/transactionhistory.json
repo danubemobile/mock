@@ -1,10 +1,14 @@
 {
-
+"AccountDetails":[
+  { "accountNumber" : "15244589456321";
+  "accountBalance" : "102 25,00";
+  "accountCurrency" : "Kć";
+    
+  }],
   "TransactionHistory": [
 
     {
-
-        "transactionAmount": 4456.32,
+         "transactionAmount": 4456.32,
 
         "paymentType": "Salary",
 
@@ -19,7 +23,6 @@
     },
 
     {
-
         "transactionAmount": 5234.56,
 
         "paymentType": "Fee",
@@ -51,8 +54,7 @@
     },
 
     {
-
-        "transactionAmount": 5643.76,
+         "transactionAmount": 5643.76,
 
         "paymentType": "Income",
 
