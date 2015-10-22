@@ -5,7 +5,7 @@
                 "accountNo": "7485*******4745",
                 "accountBalance": 1546215.12,
                 "accountType": "S",
-                "currency": "CZE",
+                "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
         },
@@ -14,7 +14,7 @@
                 "accountNo": "7485*******4745",
                 "accountBalance": 15215.12,
                 "accountType": "S",
-                "currency": "CZE",
+                "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
         },
@@ -23,7 +23,7 @@
                 "accountNo": "7485*******4745",
                 "accountBalance": 468215.12,
                 "accountType": "C",
-                "currency": "CZE",
+                "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
         },
@@ -32,7 +32,7 @@
                 "accountNo": "7485*******4745",
                 "accountBalance": -154.12,
                 "accountType": "S",
-                "currency": "CZE",
+                "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
         },
@@ -41,7 +41,7 @@
                 "accountNo": "7485*******4745",
                 "accountBalance": 15.12,
                 "accountType": "S",
-                "currency": "CZE",
+                "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
         },
@@ -50,7 +50,7 @@
                 "accountNo": "7485*******4745",
                 "accountBalance": 154.12,
                 "accountType": "C",
-                "currency": "CZE",
+                "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
         }
