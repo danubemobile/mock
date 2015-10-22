@@ -40,7 +40,7 @@
             "Account": {
                 "accountNo": "7485*******4745",
                 "accountBalance": 15.12,
-                "accountType": "S",
+                "accountType": "C",
                 "currency": "Kč",
                 "balanceOn": "16/10/2015"
             }
