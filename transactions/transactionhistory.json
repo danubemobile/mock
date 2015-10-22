@@ -1,7 +1,10 @@
 {
   "accountBalance": 6549.26,
+
   "accountNumber": 56487984564664,
+
   "currency": "Kc",
+
   "TransactionHistory": [
     {
       "transactionAmount": 4456.32,
