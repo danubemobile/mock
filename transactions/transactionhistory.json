@@ -1,7 +1,7 @@
 {
 "AccountDetails":[
   { "accountNumber" : "15244589456321",
-  "accountBalance" : "102 25,00",
+  "accountBalance" : 102 25.00,
   "accountCurrency" : "Kć",
     
   }],
