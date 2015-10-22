@@ -4,9 +4,7 @@
 
     {
 
-   
-
-        "accountBalance": 4456.32,
+        "transactionAmount": 4456.32,
 
         "paymentType": "Salary",
 
@@ -18,15 +16,11 @@
 
         "transactionDate": 1345345335345
 
-      
-
     },
 
     {
 
-     
-
-        "accountBalance": 5234.56,
+        "transactionAmount": 5234.56,
 
         "paymentType": "Fee",
 
@@ -38,15 +32,11 @@
 
         "transactionDate": 1345345335345
 
-      
-
     },
 
     {
 
-      
-
-        "accountBalance": 2456.65,
+        "transactionAmount": 2456.65,
 
         "paymentType": "Interest",
 
@@ -58,15 +48,11 @@
 
         "transactionDate": 1345345335345
 
-      
-
     },
 
     {
 
-   
-
-        "accountBalance": 5643.76,
+        "transactionAmount": 5643.76,
 
         "paymentType": "Income",
 
@@ -78,15 +64,11 @@
 
         "transactionDate": 1345345335345
 
-      
-
     },
 
     {
 
-    
-
-        "accountBalance": 9234.45,
+        "transactionAmount": 9234.45,
 
         "paymentType": "PFM Category 1",
 
@@ -98,15 +80,11 @@
 
         "transactionDate": 1345345335345
 
-      
-
     },
 
     {
 
-  
-
-        "accountBalance": 3826.90,
+        "transactionAmount": 3826.90,
 
         "paymentType": "Tax",
 
@@ -117,8 +95,6 @@
         "transactionCurrency": "Kc",
 
         "transactionDate": 1345345335345
-
-      
 
     }
 
