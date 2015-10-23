@@ -3,7 +3,7 @@
 
   "accountNumber": 56487984564664,
 
-  "currency": "Kc",
+  "currency": "Kć",
 
   "TransactionHistory": [
     {
@@ -11,7 +11,7 @@
       "paymentType": "Salary",
       "transactionUser": "Abc",
       "transactionPlace": "Address 1",
-      "transactionCurrency": "Kc",
+      "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
     },
     {
@@ -19,7 +19,7 @@
       "paymentType": "Fee",
       "transactionUser": "Abc",
       "transactionPlace": "Address 2",
-      "transactionCurrency": "Kc",
+      "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
     },
     {
@@ -27,7 +27,7 @@
       "paymentType": "Interest",
       "transactionUser": "Abc",
       "transactionPlace": "Address 3",
-      "transactionCurrency": "Kc",
+      "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
     },
     {
@@ -35,7 +35,7 @@
       "paymentType": "Income",
       "transactionUser": "Abc",
       "transactionPlace": "Address 4",
-      "transactionCurrency": "Kc",
+      "transactionCurrency": "Kć",
       "transactionDate": "22/10/2015"
     },
     {
@@ -43,7 +43,7 @@
       "paymentType": "PFM Category 1",
       "transactionUser": "Abc",
       "transactionPlace": "Address 5",
-      "transactionCurrency": "Kc",
+      "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
     },
     {
@@ -51,7 +51,7 @@
       "paymentType": "Tax",
       "transactionUser": "Abc",
       "transactionPlace": "Address 6",
-      "transactionCurrency": "Kc",
+      "transactionCurrency": "Kć",
       "transactionDate": "22/10/2015"
     }
   ]
