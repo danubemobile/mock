@@ -1,5 +1,5 @@
 {
-  "accountBalance": 15696549,26,
+  "accountBalance": 15696549.26,
 
   "accountNumber": 56487984564664,
 
@@ -7,7 +7,7 @@
 
   "TransactionHistory": [
     {
-      "transactionAmount": 4456,32,
+      "transactionAmount": 4456.32,
       "paymentType": "Salary",
       "transactionUser": "Erics",
       "transactionPlace": "Address 1",
@@ -15,7 +15,7 @@
       "transactionDate": "23.10.2015"
     },
     {
-      "transactionAmount": -5234,56,
+      "transactionAmount": -5234.56,
       "paymentType": "Fee",
       "transactionUser": "Stella",
       "transactionPlace": "Address 2",
@@ -23,7 +23,7 @@
       "transactionDate": "23.10.2015"
     },
     {
-      "transactionAmount": -2456,65,
+      "transactionAmount": -2456.65,
       "paymentType": "Interest",
       "transactionUser": "Manuel",
       "transactionPlace": "Address 3",
@@ -31,7 +31,7 @@
       "transactionDate": "23.10.2015"
     },
     {
-      "transactionAmount": -5643,76,
+      "transactionAmount": -5643.76,
       "paymentType": "Income",
       "transactionUser": "Chris",
       "transactionPlace": "Address 4",
@@ -39,7 +39,7 @@
       "transactionDate": "22.10.2015"
     },
     {
-      "transactionAmount": -9234,49,
+      "transactionAmount": -9234.49,
       "paymentType": "PFM Category 1",
       "transactionUser": "Jack",
       "transactionPlace": "Address 5",
@@ -47,7 +47,7 @@
       "transactionDate": "23.10.2015"
     },
     {
-      "transactionAmount": -3826,90,
+      "transactionAmount": -3826.90,
       "paymentType": "Tax",
       "transactionUser": "Missi",
       "transactionPlace": "Address 6",
