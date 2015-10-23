@@ -12,7 +12,7 @@
       "transactionUser": "Abc",
       "transactionPlace": "Address 1",
       "transactionCurrency": "Kc",
-      "transactionDate": 1345345335345
+      "transactionDate": "23/10/2015"
     },
     {
       "transactionAmount": 5234.56,
@@ -20,7 +20,7 @@
       "transactionUser": "Abc",
       "transactionPlace": "Address 2",
       "transactionCurrency": "Kc",
-      "transactionDate": 1345345335345
+      "transactionDate": "23/10/2015"
     },
     {
       "transactionAmount": 2456.65,
@@ -28,7 +28,7 @@
       "transactionUser": "Abc",
       "transactionPlace": "Address 3",
       "transactionCurrency": "Kc",
-      "transactionDate": 1345345335345
+      "transactionDate": "23/10/2015"
     },
     {
       "transactionAmount": 5643.76,
@@ -36,7 +36,7 @@
       "transactionUser": "Abc",
       "transactionPlace": "Address 4",
       "transactionCurrency": "Kc",
-      "transactionDate": 1345345335345
+      "transactionDate": "22/10/2015"
     },
     {
       "transactionAmount": 9234.45,
@@ -44,7 +44,7 @@
       "transactionUser": "Abc",
       "transactionPlace": "Address 5",
       "transactionCurrency": "Kc",
-      "transactionDate": 1345345335345
+      "transactionDate": "23/10/2015"
     },
     {
       "transactionAmount": 3826.90,
@@ -52,7 +52,7 @@
       "transactionUser": "Abc",
       "transactionPlace": "Address 6",
       "transactionCurrency": "Kc",
-      "transactionDate": 1345345335345
+      "transactionDate": "22/10/2015"
     }
   ]
 }
