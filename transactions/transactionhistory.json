@@ -9,7 +9,7 @@
     {
       "transactionAmount": 4456.32,
       "paymentType": "Salary",
-      "transactionUser": "Abc",
+      "transactionUser": "Erics",
       "transactionPlace": "Address 1",
       "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
@@ -17,7 +17,7 @@
     {
       "transactionAmount": 5234.56,
       "paymentType": "Fee",
-      "transactionUser": "Abc",
+      "transactionUser": "Stella",
       "transactionPlace": "Address 2",
       "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
@@ -25,7 +25,7 @@
     {
       "transactionAmount": 2456.65,
       "paymentType": "Interest",
-      "transactionUser": "Abc",
+      "transactionUser": "Manuel",
       "transactionPlace": "Address 3",
       "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
@@ -33,15 +33,15 @@
     {
       "transactionAmount": 5643.76,
       "paymentType": "Income",
-      "transactionUser": "Abc",
+      "transactionUser": "Chris",
       "transactionPlace": "Address 4",
       "transactionCurrency": "Kć",
       "transactionDate": "22/10/2015"
     },
     {
-      "transactionAmount": 9234.45,
+      "transactionAmount": 9234.49,
       "paymentType": "PFM Category 1",
-      "transactionUser": "Abc",
+      "transactionUser": "Jack",
       "transactionPlace": "Address 5",
       "transactionCurrency": "Kć",
       "transactionDate": "23/10/2015"
@@ -49,7 +49,7 @@
     {
       "transactionAmount": 3826.90,
       "paymentType": "Tax",
-      "transactionUser": "Abc",
+      "transactionUser": "Missi",
       "transactionPlace": "Address 6",
       "transactionCurrency": "Kć",
       "transactionDate": "22/10/2015"
