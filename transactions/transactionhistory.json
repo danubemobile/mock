@@ -36,7 +36,7 @@
       "transactionUser": "Chris",
       "transactionPlace": "Address 4",
       "transactionCurrency": "Kč",
-      "transactionDate": "22.10.2015"
+      "transactionDate": "23.10.2015"
     },
     {
       "transactionAmount": -9234.49,
@@ -44,7 +44,7 @@
       "transactionUser": "Jack",
       "transactionPlace": "Address 5",
       "transactionCurrency": "Kč",
-      "transactionDate": "23.10.2015"
+      "transactionDate": "22.10.2015"
     },
     {
       "transactionAmount": -3826.90,
