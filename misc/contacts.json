@@ -1,0 +1,49 @@
+{
+     "Contacts": [
+         {
+             "type": "email",
+             "details": ["cetelem@cetelem.cz"]
+         },
+         {
+             "type": "phone",
+             "details": [
+                 "+420 222 074 074"
+             ]
+         },
+         {
+             "type": "Branches",
+             "details": [
+                 {
+                     "name": "Praha",
+                     "street": "Karla Englise 5",
+                     "zipcode": "15000",
+                     "city": "Praha 5",
+                     "phone": "+420 222 074 074",
+                     "email": "cetelem@cetelem.cz",
+                     "latitude": 50.0702,
+                     "longitude": 14.4021
+                 },
+                 {
+                     "name": "Praha",
+                     "street": "Tylovo Square 5",
+                     "zipcode": "15000",
+                     "city": "Praha 5",
+                     "phone": "+420 222 074 074",
+                     "email": "cetelem@cetelem.cz",
+                     "latitude": 50.075,
+                     "longitude": 14.4318
+                 },
+                 {
+                     "name": "Praha",
+                     "street": "Konevova 114",
+                     "zipcode": "15000",
+                     "city": "Praha 5",
+                     "phone": "+420 222 074 074",
+                     "email": "cetelem@cetelem.cz",
+                     "latitude": 50.0902,
+                     "longitude": 14.4686
+                 }
+             ]
+         }
+     ]
+}
