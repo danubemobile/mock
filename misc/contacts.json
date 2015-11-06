@@ -2,12 +2,19 @@
      "Contacts": [
          {
              "type": "email",
-             "details": ["cetelem@cetelem.cz"]
+             "details": [{
+                    "email": "cetelem@cetelem.cz"
+               }
+                  
+                  ]
          },
          {
              "type": "phone",
-             "details": [
-                 "+420 222 074 074"
+             "details": [{
+                   "phone": "+420 222 074 074"
+             }
+                  
+                 
              ]
          },
          {
