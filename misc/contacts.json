@@ -32,7 +32,7 @@
                 {
                     "name": "Brno",
                     "street": "Hybešova 42",
-                    "zipcode": "15000",
+                    "zipcode": "60200",
                     "city": "Brno",
                     "phone": "+420 222 074 074",
                     "email": "cetelem@cetelem.cz",
@@ -42,7 +42,7 @@
                 {
                     "name": "Ostrava",
                     "street": "Poštovní 17",
-                    "zipcode": "15000",
+                    "zipcode": "70200",
                     "city": "Ostrava",
                     "phone": "+420 222 074 074",
                     "email": "cetelem@cetelem.cz",
