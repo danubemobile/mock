@@ -21,33 +21,33 @@
             "details": [
                 {
                     "name": "Praha",
-                    "street": "Karla Englise 5",
+                    "street": "Karla Engliše 5",
                     "zipcode": "15000",
                     "city": "Praha 5",
                     "phone": "+420 222 074 074",
                     "email": "cetelem@cetelem.cz",
-                    "latitude": 50.0702,
-                    "longitude": 14.4021
+                    "latitude": 50.070111,
+                    "longitude": 14.401899
                 },
                 {
-                    "name": "Praha",
-                    "street": "Tylovo Square 5",
+                    "name": "Brno",
+                    "street": "Hybešova 42",
                     "zipcode": "15000",
-                    "city": "Praha 5",
+                    "city": "Brno",
                     "phone": "+420 222 074 074",
                     "email": "cetelem@cetelem.cz",
-                    "latitude": 50.075,
-                    "longitude": 14.4318
+                    "latitude": 49.189798,
+                    "longitude": 16.600012
                 },
                 {
-                    "name": "Praha",
-                    "street": "Konevova 114",
+                    "name": "Ostrava",
+                    "street": "Poštovní 17",
                     "zipcode": "15000",
-                    "city": "Praha 5",
+                    "city": "Ostrava",
                     "phone": "+420 222 074 074",
                     "email": "cetelem@cetelem.cz",
-                    "latitude": 50.0902,
-                    "longitude": 14.4686
+                    "latitude": 49.836705,
+                    "longitude": 18.289892
                 }
             ]
         }
