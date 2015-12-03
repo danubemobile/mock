@@ -1,76 +1,84 @@
 {
-    "AccountsOverview": [
-        {
-            "Account": {
-                "accountNo": "748545896244745",
-                "accountBalance": 1046215.12,
-                "accountType": "S",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "195844548714546",
-                "accountBalance": 15215.12,
-                "accountType": "S",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "565842515451679",
-                "accountBalance": 468215.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "649854645752451",
-                "accountBalance": -154.12,
-                "accountType": "S",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "798458245625985",
-                "accountBalance": 15.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "019859562457852",
-                "accountBalance": 154.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "468599565321598",
-                "accountBalance": 15.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "985142685865412",
-                "accountBalance": 154.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        }
-    ]
+
+	"accountDescription": "My account",
+
+	"accountBalance": 39.800,
+
+	"accountNumber": "8376252747/6940",
+
+	"overdraftAmount": "10.000",
+
+	"iban": "CZ65 0800 0000 1920 0014 5399",
+
+	"bic": "HELLOCZPP",
+
+	"currency": "CZK",
+
+	"ownerName": "Jiri Ziamal",
+
+	"AccountsOverview": [{
+		"Account": {
+			"accountNo": "748545896244745",
+			"accountBalance": 1046215.12,
+			"accountType": "S",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "195844548714546",
+			"accountBalance": 15215.12,
+			"accountType": "S",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "565842515451679",
+			"accountBalance": 468215.12,
+			"accountType": "C",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "649854645752451",
+			"accountBalance": -154.12,
+			"accountType": "S",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "798458245625985",
+			"accountBalance": 15.12,
+			"accountType": "C",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "019859562457852",
+			"accountBalance": 154.12,
+			"accountType": "C",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "468599565321598",
+			"accountBalance": 15.12,
+			"accountType": "C",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}, {
+		"Account": {
+			"accountNo": "985142685865412",
+			"accountBalance": 154.12,
+			"accountType": "C",
+			"currency": "Kč",
+			"balanceOn": "16/10/2015"
+		}
+	}]
 }
