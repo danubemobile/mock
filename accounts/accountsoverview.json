@@ -7,6 +7,7 @@
       "balanceAmount": 39800,
       "balanceCurrency": "CZK",
       "bic": "HELLOCZPP",
+      "bankCode": "0800",
       "closingDate": null,
       "closingReason": null,
       "iban": "DE58760300800210667635",
