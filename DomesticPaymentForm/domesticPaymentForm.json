@@ -1,12 +1,16 @@
 {
-"AccountsList":["124556-210667635/0800",
-                "123456-7894561231/2912",
-                "123456-7899061231/2012",
-                "128956-7894561784/2089",
-                "789456-2394561231/2074"],
-"PFM":["Food","Medicine",
-        "Rent","Petrol",
-        "Transportaion","Movie",
-        "Clothes","Loan",
-        "Education"]
+	"accountsList": [{
+		"accountBalance": "50000",
+		"accountNumber": "124556-210667635/0800"
+	}, {
+		"accountBalance": "51000",
+		"accountNumber": "123456-7894561231/2912"
+	}, {
+		"accountBalance": "52000",
+		"accountNumber": "123456-7899061231/2012"
+	}, {
+		"accountBalance": "53000",
+		"accountNumber": "128956-7894561784/2089"
+	}],
+	"pFM": ["Food", "Medicine", "Rent", "Petrol", "Transportaion", "Movie", "Clothes", "Loan", "Education"]
 }
