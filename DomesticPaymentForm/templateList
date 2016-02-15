@@ -1,0 +1,220 @@
+{
+	"domesticTemplateListInfoDTOList": [{
+		"templateNameList": ["House Rent"],
+		"amount": 1,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "House Rent"
+	}, {
+		"templateNameList": ["wewewwe"],
+		"amount": 48050,
+		"recipientAccountNumber": "1265098001",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "wewewwe"
+	}, {
+		"templateNameList": ["ygyg"],
+		"amount": 10,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "ygyg"
+	}, {
+		"templateNameList": ["8guvu"],
+		"amount": 10,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "8guvu"
+	}, {
+		"templateNameList": ["test"],
+		"amount": 23,
+		"recipientAccountNumber": "1234567899",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "test"
+	}, {
+		"templateNameList": ["sss"],
+		"amount": 1000,
+		"recipientAccountNumber": "1005000143",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "19",
+		"templateName": "sss"
+	}, {
+		"templateNameList": ["Internet Recharge"],
+		"amount": 10,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "Internet Recharge"
+	}, {
+		"templateNameList": ["jiri template"],
+		"amount": 64,
+		"recipientAccountNumber": "0173318965",
+		"recipientBankNumber": "0300",
+		"recipientAccountPrefix": "",
+		"templateName": "jiri template"
+	}, {
+		"templateNameList": ["Utilities"],
+		"amount": 2300,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "Utilities"
+	}, {
+		"templateNameList": ["review payment"],
+		"amount": 361,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "review payment"
+	}, {
+		"templateNameList": ["Shenwei template"],
+		"amount": 847,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "Shenwei template"
+	}, {
+		"templateNameList": ["blazena template"],
+		"amount": 8000,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "blazena template"
+	}, {
+		"templateNameList": ["dzfbgdfz"],
+		"amount": 1,
+		"recipientAccountNumber": "1500000108",
+		"recipientBankNumber": "9999",
+		"recipientAccountPrefix": "",
+		"templateName": "dzfbgdfz"
+	}, {
+		"templateNameList": ["jk"],
+		"amount": 10,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "jk"
+	}, {
+		"templateNameList": ["zlom test and"],
+		"amount": 3,
+		"recipientAccountNumber": "173318965",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "zlom test and"
+	}, {
+		"templateNameList": ["asdas"],
+		"amount": 6464.64,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "asdas"
+	}, {
+		"templateNameList": ["testyyyy"],
+		"amount": 6,
+		"recipientAccountNumber": "1500000108",
+		"recipientBankNumber": "9999",
+		"recipientAccountPrefix": "",
+		"templateName": "testyyyy"
+	}, {
+		"templateNameList": ["zlom android"],
+		"amount": 3,
+		"recipientAccountNumber": "173318965",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "zlom android"
+	}, {
+		"templateNameList": ["llk"],
+		"amount": 80,
+		"recipientAccountNumber": "1234567899",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "19",
+		"templateName": "llk"
+	}, {
+		"templateNameList": ["newtemp"],
+		"amount": 633,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "newtemp"
+	}, {
+		"templateNameList": ["asdgug"],
+		"amount": 56,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "asdgug"
+	}, {
+		"templateNameList": ["bentest0402"],
+		"amount": 56,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "bentest0402"
+	}, {
+		"templateNameList": ["ayficyxitx"],
+		"amount": 567,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "ayficyxitx"
+	}, {
+		"templateNameList": ["newTemplate"],
+		"amount": 4737,
+		"recipientAccountNumber": "1500000108",
+		"recipientBankNumber": "9999",
+		"recipientAccountPrefix": "19",
+		"templateName": "newTemplate"
+	}, {
+		"templateNameList": ["Template Test"],
+		"amount": 2,
+		"recipientAccountNumber": "1500000108",
+		"recipientBankNumber": "9999",
+		"recipientAccountPrefix": "",
+		"templateName": "Template Test"
+	}, {
+		"templateNameList": ["wer"],
+		"amount": 1,
+		"recipientAccountNumber": "1234567899",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "19",
+		"templateName": "wer"
+	}, {
+		"templateNameList": ["new one for review"],
+		"amount": 10,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "new one for review"
+	}, {
+		"templateNameList": ["Tuition Fee"],
+		"amount": 2,
+		"recipientAccountNumber": "2000145399",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "Tuition Fee"
+	}, {
+		"templateNameList": ["sree"],
+		"amount": 2000,
+		"recipientAccountNumber": "173318965",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "19",
+		"templateName": "sree"
+	}, {
+		"templateNameList": ["ss"],
+		"amount": 200,
+		"recipientAccountNumber": "173318965",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "19",
+		"templateName": "ss"
+	}, {
+		"templateNameList": ["sreejith"],
+		"amount": 48050,
+		"recipientAccountNumber": "1265098001",
+		"recipientBankNumber": "0800",
+		"recipientAccountPrefix": "",
+		"templateName": "sreejith"
+	}]
+}
