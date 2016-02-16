@@ -1,0 +1,30 @@
+{
+	"domesticTemplateInfo": {
+		"cifId": null,
+		"templateName": "template",
+		"amount": {
+			"value": 847,
+			"currency": null
+		},
+		"recipient": {
+			"bank": {
+				"id": "0800",
+				"name": null
+			},
+			"prefix": "",
+			"account": "2000145399",
+			"message": "Message To Recipient"
+		},
+		"variableSymbol": "1234567890",
+		"specificSymbol": "1984829123",
+		"constantSymbol": "8392939483",
+		"sender": {
+			"message": "",
+			"mail": null
+		},
+		"categoryDTO": {
+			"id": "1",
+			"name": null
+		}
+	}
+}

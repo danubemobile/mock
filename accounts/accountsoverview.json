@@ -1,76 +1,171 @@
 {
-    "AccountsOverview": [
+  "productsList": [
+    {
+      "accountNumber": "210667635",
+      "accountDescription": null,
+      "accountOpeningDate": 1422918000000,
+      "balanceAmount": 39800,
+      "balanceCurrency": "CZK",
+      "bic": "HELLOCZPP",
+      "bankCode": "0800",
+      "closingDate": null,
+      "closingReason": null,
+      "iban": "DE58760300800210667635",
+      "interestRate": 0,
+      "lastTransactionDate": 1445814000000,
+      "overdraftDate": null,
+      "overdraftLimitAmount": 0,
+      "overdraftLimitCurrency": "CZK",
+      "productGroupNumber": "0000",
+      "productNumber": "101500",
+      "reactivationDate": null,
+      "status": null,
+      "pendingTransactionAmount": 0,
+      "pendingTransactionCurrency": "CZK",
+      "cards": [
         {
-            "Account": {
-                "accountNo": "748545896244745",
-                "accountBalance": 1046215.12,
-                "accountType": "S",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "195844548714546",
-                "accountBalance": 15215.12,
-                "accountType": "S",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "565842515451679",
-                "accountBalance": 468215.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "649854645752451",
-                "accountBalance": -154.12,
-                "accountType": "S",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "798458245625985",
-                "accountBalance": 15.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "019859562457852",
-                "accountBalance": 154.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "468599565321598",
-                "accountBalance": 15.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
-        },
-        {
-            "Account": {
-                "accountNo": "985142685865412",
-                "accountBalance": 154.12,
-                "accountType": "C",
-                "currency": "Kč",
-                "balanceOn": "16/10/2015"
-            }
+          "holderFirstName": "Kirill",
+          "holderLastName": "Lange",
+          "cardNumber": "9002538",
+          "validity": 4,
+          "expirationYear": 2019,
+          "expirationMonth": 12,
+          "issueDate": 1420758000000,
+          "cardType": "VP",
+          "minor": false,
+          "fees": 0,
+          "status": "Active",
+          "overdraftLimit": 00
         }
-    ]
+      ],
+      "ownerShortName": "Krk,Roman",
+      "productType": "CurrentAccount"
+    },
+    {
+      "accountNumber": "210689558",
+      "accountDescription": null,
+      "accountOpeningDate": 1422918000000,
+      "balanceAmount": 9001,
+      "balanceCurrency": "CZK",
+      "bic": "",
+      "closingDate": null,
+      "closingReason": null,
+      "iban": "DE31760300800210689558",
+      "interestRate": 0,
+      "lastTransactionDate": 1445814000000,
+      "overdraftDate": null,
+      "overdraftLimitAmount": 0,
+      "overdraftLimitCurrency": "CZK",
+      "productGroupNumber": "0025",
+      "productNumber": "100101",
+      "reactivationDate": null,
+      "status": null,
+      "pendingTransactionAmount": 0,
+      "pendingTransactionCurrency": "CZK",
+      "cards": null,
+      "ownerShortName": "Prof. Dr. Vorbeck,Johannes",
+      "productType": "CurrentAccount"
+    },{
+      "accountNumber": "210689998",
+      "accountDescription": null,
+      "accountOpeningDate": 1422918000000,
+      "balanceAmount": 9001,
+      "balanceCurrency": "CZK",
+      "bic": "",
+      "closingDate": null,
+      "closingReason": null,
+      "iban": "DE31760300800210689558",
+      "interestRate": 0,
+      "lastTransactionDate": 1445814000000,
+      "overdraftDate": null,
+      "overdraftLimitAmount": 0,
+      "overdraftLimitCurrency": "CZK",
+      "productGroupNumber": "0025",
+      "productNumber": "100101",
+      "reactivationDate": null,
+      "status": null,
+      "pendingTransactionAmount": 0,
+      "pendingTransactionCurrency": "CZK",
+      "cards": null,
+      "ownerShortName": "Prof. Dr. Vorbeck,Johannes",
+      "productType": "CurrentAccount"
+    },
+    {
+      "accountNumber": "212889998",
+      "accountDescription": null,
+      "accountOpeningDate": 1422918000000,
+      "balanceAmount": 9001,
+      "balanceCurrency": "CZK",
+      "bic": "",
+      "closingDate": null,
+      "closingReason": null,
+      "iban": "DE31760300800210689558",
+      "interestRate": 0,
+      "lastTransactionDate": 1445814000000,
+      "overdraftDate": null,
+      "overdraftLimitAmount": 0,
+      "overdraftLimitCurrency": "CZK",
+      "productGroupNumber": "0025",
+      "productNumber": "100101",
+      "reactivationDate": null,
+      "status": null,
+      "pendingTransactionAmount": 0,
+      "pendingTransactionCurrency": "CZK",
+      "cards": null,
+      "ownerShortName": "Prof. Dr. Vorbeck,Johannes",
+      "productType": "CurrentAccount"
+    },
+    {
+      "accountNumber": "210689912",
+      "accountDescription": null,
+      "accountOpeningDate": 1422918000000,
+      "balanceAmount": 3183,
+      "balanceCurrency": "CZK",
+      "bic": "",
+      "closingDate": null,
+      "closingReason": null,
+      "iban": "DE76760300800210689912",
+      "interestRate": 0,
+      "lastTransactionDate": 1445814000000,
+      "overdraftDate": null,
+      "overdraftLimitAmount": 10000,
+      "overdraftLimitCurrency": "CZK",
+      "productGroupNumber": "0000",
+      "productNumber": "101500",
+      "reactivationDate": null,
+      "status": null,
+      "pendingTransactionAmount": -2,
+      "pendingTransactionCurrency": "CZK",
+      "cards": [
+        {
+          "holderFirstName": "Bernard",
+          "holderLastName": "Fisic",
+          "cardNumber": "9003243",
+          "validity": 4,
+          "expirationYear": 2019,
+          "expirationMonth": 12,
+          "issueDate": 1421103600000,
+          "cardType": "VP",
+          "minor": false,
+          "fees": 0,
+          "overdraftLimit": 0
+        },
+        {
+          "holderFirstName": "Evelin",
+          "holderLastName": "Fisic",
+          "cardNumber": "9003244",
+          "validity": 4,
+          "expirationYear": 2019,
+          "expirationMonth": 12,
+          "issueDate": 1421103600000,
+          "cardType": "VP",
+          "minor": false,
+          "fees": 0,
+          "overdraftLimit": 0
+        }
+      ],
+      "ownerShortName": "Krk,Jiří",
+      "productType": "CurrentAccount"
+    }
+  ]
 }

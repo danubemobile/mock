@@ -1,58 +1,63 @@
 {
-  "accountBalance": 15696549.26,
-
-  "accountNumber": "56487984564664",
-
-  "currency": "Kč",
-
-  "TransactionHistory": [
-    {
-      "transactionAmount": 4456.32,
-      "paymentType": "Salary",
-      "transactionUser": "Erics",
-      "transactionPlace": "Address 1",
-      "transactionCurrency": "Kč",
-      "transactionDate": "23.10.2015"
-    },
-    {
-      "transactionAmount": -5234.56,
-      "paymentType": "Fee",
-      "transactionUser": "Stella",
-      "transactionPlace": "Address 2",
-      "transactionCurrency": "Kč",
-      "transactionDate": "23.10.2015"
-    },
-    {
-      "transactionAmount": -2456.65,
-      "paymentType": "Interest",
-      "transactionUser": "Manuel",
-      "transactionPlace": "Address 3",
-      "transactionCurrency": "Kč",
-      "transactionDate": "23.10.2015"
-    },
-    {
-      "transactionAmount": -5643.76,
-      "paymentType": "Income",
-      "transactionUser": "Chris",
-      "transactionPlace": "Address 4",
-      "transactionCurrency": "Kč",
-      "transactionDate": "23.10.2015"
-    },
-    {
-      "transactionAmount": -9234.49,
-      "paymentType": "PFM Category 1",
-      "transactionUser": "Jack",
-      "transactionPlace": "Address 5",
-      "transactionCurrency": "Kč",
-      "transactionDate": "22.10.2015"
-    },
-    {
-      "transactionAmount": -3826.90,
-      "paymentType": "Tax",
-      "transactionUser": "Missi",
-      "transactionPlace": "Address 6",
-      "transactionCurrency": "Kč",
-      "transactionDate": "22.10.2015"
-    }
-  ]
+	"transactionSummaryList": [{
+		"amount": -662.000,
+		"executionDate": 1448492400000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -10.000,
+		"executionDate": 1446073200000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -662.000,
+		"executionDate": 1445986800000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}, {
+		"amount": -999.000,
+		"executionDate": 1422918000000,
+		"description": "",
+		"transactionType": null,
+		"receiverName": "Tester 2"
+	}]
 }

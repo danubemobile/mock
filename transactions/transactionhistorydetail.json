@@ -1,0 +1,20 @@
+{
+	"selectedPaymentCategoryPosition": 0,
+	"beneficiaryAccount": "HelloBank spořeni\n123456789123",
+	"date": "8. 10. 2015",
+	"type": " - ",
+	"amount": "1290 Kč",
+	"description": "pravidelné spoření / spoření",
+	"transactionType": "Převod na spořeni",
+	"paymentCategory": ["Groceries", "Transportation", "Entertainment"],
+	"transactionDate": "8.10.2015",
+	"accountingDate": "8. 10. 2015",
+	"netBalance": "12560 Kč",
+	"netBalanceOverdraft": "22560 Kč",
+	"variableSymbol": "",
+	"constantSymbol": "",
+	"specificSymbol": "",
+	"note": "Savings for whatever as a message, that is visible only in my banking",
+	"receiverAccNo": "HelloBank spořeni\n123456789123",
+	"msgForReceiver": "Savings for whatever as a message, that is visible by receiver"
+}
